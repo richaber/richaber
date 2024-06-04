@@ -19,7 +19,7 @@ I'm Richard Aber, a seasoned WordPress developer.
 
 I've been working with HTML since 1999, PHP since 2004, and WordPress since 2009.
 
-I have been a developer, senior developer, and lead developer on hundreds of WordPress site builds. I have worked as a freelancer, a consultant, an in-house corporate developer, and an agency devloper.
+I have been a developer, senior developer, and lead developer on hundreds of WordPress site builds. I have worked as a freelancer, a consultant, an in-house corporate developer, and an agency developer.
 
 I have contributed to multiple "public" WordPress plugins. 
 
