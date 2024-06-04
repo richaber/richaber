@@ -32,7 +32,7 @@ I have contributed to multiple "public" WordPress plugins.
 
 And I have built many, many more, "private" WordPress plugins and WP-CLI commands, for specific client use cases.
 
-I love barbecue! I run a stick-burner offset smoker and a Weber kettle grill. If I'm not wrangling code, I'm probably cooking something outside!
+If I'm not wrangling code, I'm probably cooking something outside! I love barbecue, and run a stick-burner offset smoker and a Weber kettle grill. 
 
 Here are some ways to connect with me:
 
