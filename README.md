@@ -19,19 +19,18 @@ I'm Richard Aber, a seasoned WordPress developer.
 
 I've been working with HTML since 1999, PHP since 2004, and WordPress since 2009.
 
-I have been a developer, senior developer, and lead developer on hundreds of WordPress site builds. I have worked as a freelancer, a consultant, an in-house corporate developer, and an agency developer.
+I have held various dev roles such as developer, senior developer, lead developer, and development manager. My experience spans freelancing, consulting, corporate in-house development, and agency-based development.
 
-I have contributed to multiple "public" WordPress plugins. 
+I have worked on hundreds of WordPress websites, from small brochure sites, to complex sites for multinational corporations that consume data from multiple private APIs to assemble content dynamically.
+
+I have contributed to multiple "public" WordPress plugins.
 
 - [WP Search with Algolia](https://github.com/WebDevStudios/wp-search-with-algolia/graphs/contributors
-)
+  )
 - [Constant Contact Forms](https://github.com/WebDevStudios/constant-contact-forms/graphs/contributors)
 - [Constant Contact + WooCommerce](https://github.com/WebDevStudios/constant-contact-woocommerce/graphs/contributors)
-- [Snow Monkey Blocks](https://github.com/inc2734/snow-monkey-blocks/issues/375)
-- [Babble](https://github.com/Automattic/babble/issues/330)
-- [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql/issues/5) 
 
-I have built many "private" WordPress plugins, either for specific client use cases, working with custom private APIs, or under NDA.
+And I have built many, many more, "private" WordPress plugins and WP-CLI commands, for specific client use cases.
 
 I love barbecue! I run a stick-burner offset smoker and a Weber kettle grill. If I'm not wrangling code, I'm probably cooking something outside!
 
