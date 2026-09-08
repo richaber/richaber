@@ -25,10 +25,10 @@ I have worked on hundreds of WordPress websites, from small brochure sites, to c
 
 I have contributed to multiple "public" WordPress plugins.
 
-- [WP Search with Algolia](https://github.com/WebDevStudios/wp-search-with-algolia/graphs/contributors
+- [WP Search with Algolia](https://github.com/WebDevStudios/wp-search-with-algolia/graphs/contributors?all=1
   )
-- [Constant Contact Forms](https://github.com/WebDevStudios/constant-contact-forms/graphs/contributors)
-- [Constant Contact + WooCommerce](https://github.com/WebDevStudios/constant-contact-woocommerce/graphs/contributors)
+- [Constant Contact Forms](https://github.com/WebDevStudios/constant-contact-forms/graphs/contributors?all=1)
+- [Constant Contact + WooCommerce](https://github.com/WebDevStudios/constant-contact-woocommerce/graphs/contributors?all=1)
 
 And I have built many, many more, "private" WordPress plugins and WP-CLI commands, for specific client use cases.
 
